@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508682157 source:c:\users\artur\desktop\symulator wojny - nowy\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
